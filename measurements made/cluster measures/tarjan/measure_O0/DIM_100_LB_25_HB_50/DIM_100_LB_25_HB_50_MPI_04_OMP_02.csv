@@ -1,0 +1,3 @@
+processes,tarjan_time,comm_time,elapsed
+4,0.000967,0.019806,0.020773
+4,0.000902,0.040188,0.041090
